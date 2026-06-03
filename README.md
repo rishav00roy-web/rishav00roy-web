@@ -3,11 +3,11 @@
                     🏎️ F1 fan | 🛠️ Builder | 
 
 ## About Me
-- 🔭 Currently working as a FOIA Specialist at SSB Media
+- 🔭 Currently working as a FOIA Specialist.
 - 🌱 Learning Python, HTML & CSS from scratch
 - 💼 6+ years of Operations & HR experience
 - 🤖 Building AI powered web tools
-- 💸 Built and sold my first web app in 2025
+- 💸 Built and sold my first web app in 2026
 
 ## What I Build
 - Simple web tools for small businesses
