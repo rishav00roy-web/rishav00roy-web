@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Rishav Roy 👋
 
-<!--
-**rishav00roy-web/rishav00roy-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                    🏎️ F1 fan | 🛠️ Builder | 
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Currently working as a FOIA Specialist at SSB Media
+- 🌱 Learning Python, HTML & CSS from scratch
+- 💼 6+ years of Operations & HR experience
+- 🤖 Building AI powered web tools
+- 💸 Built and sold my first web app in 2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- Simple web tools for small businesses
+- AI powered apps
+- Automation tools
+
+## Tech Stack
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## Projects
+- 🏋️ [IQIron Gym CRM](https://github.com/rishav00roy-web/gym-crm) — Built and sold to a real gym owner
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-the-roy)
+
+---
+⚡ *"Spent 6 years fixing operations manually. Now I build tools that make operations obsolete."*
