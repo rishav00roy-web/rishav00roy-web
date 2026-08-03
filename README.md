@@ -1,29 +1,27 @@
-# Hey, I'm Rishav Roy 👋
+Hey, I'm Rishav Roy 👋
 
-                    🏎️ F1 fan | 🛠️ Builder | 
+🏎️ F1 fan  |  🛠️ Builder
 
-## About Me
-- 🔭 Currently working as a FOIA Specialist.
-- 🌱 Learning Python, HTML & CSS from scratch
-- 💼 6+ years of Operations & HR experience
-- 🤖 Building AI powered web tools
-- 💸 Built and sold my first web app in 2026
+About Me
+🔭 Currently working as a FOIA Specialist
+🌱 Learning Python, HTML & CSS from scratch
+💼 6+ years of Operations & HR experience
+🤖 Building AI-powered web tools
+💸 Built and sold my first web app in 2026
+What I Build
+Simple web tools for small businesses
+AI-powered apps
+Automation tools
+Tech Stack
+<!-- Add badges as you pick up more tools. Example: -->
 
-## What I Build
-- Simple web tools for small businesses
-- AI powered apps
-- Automation tools
+Show Image Show Image Show Image Show Image Show Image Show Image
 
-## Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+Projects
+🏋️ IQIron Gym CRM — Built and sold to a real gym owner
+Connect
+<!-- Fill in the links you actually want public -->
 
-## Projects
-- 🏋️ [IQIron Gym CRM](https://github.com/rishav00roy-web/gym-crm) — Built and sold to a real gym owner
+Show Image Show Image Show Image
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-the-roy)
-
----
-⚡ *"Spent 6 years fixing operations manually. Now I build tools that make operations obsolete."*
+⚡ "Spent 6 years fixing operations manually. Now I build tools that make operations obsolete."
