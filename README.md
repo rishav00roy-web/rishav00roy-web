@@ -1,54 +1,56 @@
-# Hey, I'm Rishav Roy 👋
+## Building in public
 
-Agentic Full-Stack Developer &nbsp;|&nbsp; 🏎️ F1 fan &nbsp;|&nbsp; 🛠️ Builder
+<div align="center">
 
-Based in Kolkata, India (originally from Jorhat, Assam) · Available for hire
+# Rishav Roy
 
----
+> Technical founder
 
-### About Me
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=rishav00roy-web&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F290135824%3Fu%3D97b8ece0b7b68eb39c87aae1d85521f4fd5f7fee%26v%3D4" alt="rishav00roy-web hero visual" />
+</p>
 
-- 🔭 Currently building **Tea Country Holidays** — a travel booking platform + custom CMS
-- 🎓 Pursuing **BCA (Semester II)** at Manipal University, Jaipur
-- 💼 6+ years of Operations, HR, Procurement & Business Admin experience before moving into dev
-- 🤖 I use AI (Claude Code, Codex, Gemini) to accelerate builds — but I architect, review, and own every line
-- 💸 Building and shipping production-grade web apps for paying clients
+</div>
 
-### Paid Projects
+## The point of view
 
-- 🌿 **Tea Country Holidays** — Travel booking platform + custom rate management CMS for a travel agency, supporting 94+ packages across 24 destinations, with automated PDF itinerary generation.
-  `Next.js 14` `React 19` `Supabase` `PostgreSQL` `Tailwind CSS` `Python (ReportLab)` `PKCE OAuth`
+> Ex-operations guy who got tired of manual work. Now I build tools so nobody else has to suffer.
 
-- 🏋️ **[IQ Iron Fitness](https://github.com/rishav00roy-web/Gym-CRM)** — Cloud-hosted gym membership platform with real-time Supabase sync, a custom billing engine, salary slip builder, and role-based trainer tracking.
-  `Next.js 14` `Supabase` `PostgreSQL` `Tailwind CSS` `TypeScript`
+- 📍 Based in **india**
+- 🌐 [Website](https://byrishav.online/)
+- 👥 **0** followers · **0** following
 
-- ⚔️ **Clash Bazar** *(in progress)* — Escrow-secured marketplace connecting Clash of Clans players with pro boosters, coaches, and base builders.
-  `Next.js` `Supabase` `Razorpay` `PayPal` `Escrow Engine` `PostgreSQL`
+*Small, useful work over vague claims.*
 
-### Technical Experiments
+## What I’m shipping
 
-- 📴 **[Gym CRM (Offline, Local-First)](https://github.com/rishav00roy-web/Gym-CRM)** — Local-first member management with in-browser OCR Aadhaar scanning (Tesseract.js), IndexedDB replication, and offline-queued broadcasts for low-connectivity gyms.
-  `Vanilla JS` `IndexedDB` `Tesseract.js OCR` `Service Workers` `HTML5 Canvas`
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=rishav00roy-web&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F290135824%3Fu%3D97b8ece0b7b68eb39c87aae1d85521f4fd5f7fee%26v%3D4" alt="rishav00roy-web highlights visual" />
+</p>
 
-### Tech Stack
+<p><b>Rishav Roy</b> is shipping 12 public projects with 0 stars of proof.</p>
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+## Products and proof
 
-### Connect
+<table>
+<tr><td width="32%"><b><a href="https://github.com/rishav00roy-web/Roy-and-co-website">Roy-and-co-website</a></b></td><td>Desktop-first marketing site built for a client (ROY GROUP, a three-house wedding/events brand), not sold, now a design showcase. Compositor-only scroll animations (CSS animation-timeline), Lenis smooth scroll, tone-shifting header. Built with Claude Code.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/rishav00roy-web/Dr.laara-dutta-portfolio">Dr.laara-dutta-portfolio</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/rishav00roy-web/Chriskennelsite">Chriskennelsite</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/rishav00roy-web/microgreens-site-">microgreens-site-</a></b></td><td>A selected project from this GitHub profile.<br/><sub>TypeScript · 0 stars</sub></td></tr>
+</table>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://www.byrishav.online/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-roy-858b0b365/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/justbeingpsunk_)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rishav2000roy@gmail.com)
+## Momentum
 
----
+<table>
+<tr><td align="center"><b>12</b><br/><sub>repos</sub></td><td align="center"><b>0</b><br/><sub>stars</sub></td><td align="center"><b>448</b><br/><sub>contributions</sub></td></tr>
+</table>
 
-> ⚡ "Spent 6 years fixing operations manually. Now I build tools that make operations obsolete."
+## Start a conversation
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=rishav00roy-web&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F290135824%3Fu%3D97b8ece0b7b68eb39c87aae1d85521f4fd5f7fee%26v%3D4" alt="rishav00roy-web social visual" />
+</p>
+
+<a href="https://github.com/rishav00roy-web">GitHub</a> · <a href="https://byrishav.online/">Website</a>
+
+<p align="center"><sub>Rishav Roy · Founder profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
