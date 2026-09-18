@@ -80,7 +80,7 @@ Six-plus years in operations before writing production code.
 - **FOIA Specialist**, SSB Media Pvt. Ltd. (2025 to 2026). Processed 1,500+ Freedom of Information Act requests remotely, coordinating with U.S. police departments across a database of 100+ agencies.
 - **HR, Administration & Purchase**, 3RM Management Limited (2023 to 2024). Directed HR for 40+ staff, administered biweekly operational budgets, drafted project quotations for rural energy infrastructure.
 - **Assistant Manager**, Yogesh Commercial Pvt. Ltd. (2021 to 2023). Supervised operations for 50+ workers. Converted decades of physical account files to digital using OCR and Claude AI, which was my introduction to AI-orchestrated workflows.
-- **Founder & COO**, Shangrila Enterprise (2020 to 2021). Built an independent commodity trading business to INR 3.5 Cr cumulative turnover across 95+ locations, with clients in Japan, China, and Russia.
+- **COO**, Shangrila Enterprise (2020 to 2021). Built an independent commodity trading business to INR 3.5 Cr cumulative turnover across 95+ locations, with clients in Japan, China, and Russia.
 
 ## Momentum
 
